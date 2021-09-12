@@ -1,7 +1,7 @@
 # Anime Finder ✨
 
 <div align="center">
-Lookup and anime from a simple screenshot
+Lookup an anime from a simple screenshot
 </div>
 
 # Made using :
