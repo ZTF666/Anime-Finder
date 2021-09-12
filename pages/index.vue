@@ -1,5 +1,13 @@
 <template>
    <div>
+    <v-alert class="dark secondary--text" 
+     dismissible
+      border="left"
+      elevation="10"
+      icon="mdi-alert-circle"
+     >
+      <center>The accuracy is not 100% , you may get some wrong anime😅 </center>
+    </v-alert>
      <!-- Error Message -->
          <div>
             <v-alert
